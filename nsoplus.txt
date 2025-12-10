@@ -1,1 +1,1 @@
-NSO PLUS:sv1.nsoplus.com:14444:0:0,Tuổi Thơ Ninja:14.225.213.230:14444:0:0
+NSO PLUS:sv1.nsoplus.com:14444:0:0
