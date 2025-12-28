@@ -1,1 +1,1 @@
-NSO KHANG:160.187.229.115:14444:0:0
+NSO KHANG:vip..nsolau.io.vn:14444:0:0
