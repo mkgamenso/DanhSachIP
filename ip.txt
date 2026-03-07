@@ -1,4 +1,5 @@
-NINJA PAIN:163.223.13.192:14444:0:0,Hồi Sinh Gia Tộc:gtnso.hoisinhgiatoc.com:14444:0:0,Cuộc Chiến Ninja:vip.cuocchienninja.com:14444:0:0,NSO FREE:223.130.11.147:14444:0:0,LOCALHOST:127.0.0.1:14444:0:1
+NINJA PAIN:163.223.13.192:14444:0:0,Hồi Sinh Gia Tộc:gtnso.hoisinhgiatoc.com:14444:0:0,Cuộc Chiến Ninja:vip.cuocchienninja.com:14444:0:0,NSO FREE:223.130.11.147:14444:0:0,LOCAL:161.248.146.51:14444:0:1
+
 
 
 
