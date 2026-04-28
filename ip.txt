@@ -1,1 +1,1 @@
-THNS S1:sv1.truonghocninja.com:14444:0:0,Cuộc Chiến Ninja:vip.cuocchienninja.com:14444:0:0,Shinvnso:103.139.155.52:14444:0:0,Nso Hero:game.nsohero.com:14444:0:0,NSO TEAMOBI:45.124.84.47:14444:0:0,LocalFreeNsoz:161.248.146.51:14444:0:0,LOCAL:127.0.0.1:14444:0:1
+THNS S1:sv1.truonghocninja.com:14444:0:0,Cuộc Chiến Ninja:vip.cuocchienninja.com:14444:0:0,Shinvnso:103.139.155.52:14444:0:0,Nso Hero:game.nsohero.com:14444:0:0,NSO BÁNH BÒ:103.162.20.214:14444:0:0,LocalFreeNsoz:161.248.146.51:14444:0:0,LOCAL:127.0.0.1:14444:0:1
