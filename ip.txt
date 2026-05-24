@@ -1,1 +1,1 @@
-Đấu Trường Ninja:dtnso.dautruongninja.com:14444:0:0,NSO SUMMER:sv.nsosummer.com:14444:0:0,NSO Mùa Xuân 2:103.92.26.187:14444:0:0,LOCAL:127.0.0.1:14444:0:0
+Đấu Trường Ninja:dtnso.dautruongninja.com:14444:0:0,NSO SUMMER:sv.nsosummer.com:14444:0:0,NSO Mùa Xuân:103.92.25.24:14444:0:0,Tân Binh Mùa Xuân:103.92.26.187:14444:0:0,LOCAL:127.0.0.1:14444:0:0
