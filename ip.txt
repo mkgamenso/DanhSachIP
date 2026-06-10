@@ -1,1 +1,1 @@
-Đấu Trường Ninja:dtnso.dautruongninja.com:14444:0:0,NSO Thiên Địa:160.250.130.92:14444:0:0,NSO SUMMER:sv.nsosummer.com:14444:0:0,Shuriken:sv.nsoshuriken.com:14444:0:0,NSOQT:sv1.nsoqt.io.vn:14444:0:0,Ninja 1:1.nso1.com:14444:0:0,LOCAL:127.0.0.1:14444:0:0
+Đấu Trường Ninja:dtnso.dautruongninja.com:14444:0:0,NSO Thiên Địa:160.250.130.92:14444:0:0,NSO SUMMER:sv.nsosummer.com:14444:0:0,Shuriken:103.237.147.116:14444:0:0,NSOQT:sv1.nsoqt.io.vn:14444:0:0,Ninja 1:1.nso1.com:14444:0:0,LOCAL:127.0.0.1:14444:0:0
