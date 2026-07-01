@@ -1,1 +1,1 @@
-NSO Ryuki:ip.nsoryuki.com:14446:0:0,NSO SUMMER:sv.nsosummer.com:14444:0:0,Shuriken:sv.nsoshuriken.com:14444:0:0,NSO HERO:game.nsohero.com:14444:0:0,Ninja 1:1.nso1.com:14444:0:0,LOCAL:127.0.0.1:14444:0:0
+NSO Ryuki:ip.nsoryuki.com:14446:0:0,NSO EXE:103.149.252.87:14444:0:0,Shuriken:sv.nsoshuriken.com:14444:0:0,NSO HERO:game.nsohero.com:14444:0:0,Ninja 1:1.nso1.com:14444:0:0,LOCAL:127.0.0.1:14444:0:0
